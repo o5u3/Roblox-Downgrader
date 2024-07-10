@@ -10,4 +10,4 @@ Used to downgrade your current Roblox version to the previous one.
 Join the [Discord](https://discord.gg/CZUfHYHtZr) for more information.
 
 ## Copyright
-This program is licensed under the [MIT license](LICENSE). Copyright 2020 ilyKiwi.
+This program is licensed under the [MIT license](LICENSE). Copyright 2024 ilyKiwi.
